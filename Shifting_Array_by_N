@@ -1,4 +1,4 @@
-package RoughWork;
+package Shifting_Array_by_N;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -8,7 +8,7 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
-public class RoughWork {
+public class Shifting_Array_by_N {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
