@@ -1,4 +1,4 @@
-package RoughWork;
+package Array_Shift_by_2_LeftToRight;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -8,7 +8,7 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
-public class RoughWork {
+public class Array_Shift_by_2_LeftToRight {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
